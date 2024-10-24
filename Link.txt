@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Mazen123123123/AutoUpdate/refs/heads/main/c.txt
+https://github.com/Mazen123123123/AutoUpdate/raw/refs/heads/main/NorFlexTest.zip
